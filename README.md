@@ -1,16 +1,32 @@
-# React + Vite
+# React Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+這是使用 React 搭配 Webpack 開發的練習專案，主要用於練習元件拆解、API 串接和狀態管理。
 
-Currently, two official plugins are available:
+## 線上展示
+*  成果展示網站：[React Practice](https://wen-77.github.io/react-practice/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 使用技術
+* **前端框架**：React 19
+* **建構工具**：Webpack 5
+* **樣式處理**：Tailwind CSS
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+請依照以下步驟在你的電腦上執行此專案：
 
-## Expanding the ESLint configuration
+1. **複製此專案到本地**
+   ```bash
+   git clone https://github.com/wen-77/react-practice.git
+   cd react-practice
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **安裝必要套件**
+   ```bash
+   npm install
+
+3. **啟動伺服器**
+   ```bash
+   npm run dev
+
+4. **啟動伺服器**
+   ```bash
+   npm run build
