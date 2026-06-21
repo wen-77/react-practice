@@ -1,0 +1,67 @@
+{
+  "featuredEvent": {
+    "title": "印象•左岸奧塞美術館30週年大展",
+    "description": "本特展為紀念奧塞美術館建館30週年所推出，從珍貴館藏中挑選作品，展現西方19世紀的藝術成果。",
+    "location": "故宮博物院北部院區第二展覽區圖書文獻大樓一樓特展區",
+    "ticketUrl": "https://wen-77.github.io/RWD-Practice-01/#"
+  },
+  "collections": [
+    {
+      "id": "c001",
+      "name": "翠玉白菜",
+      "period": "19世紀",
+      "material": "翠玉雕刻",
+      "dimensions": {
+        "length": 18.7,
+        "width": 9.1,
+        "thickness": 5.07,
+        "unit": "公分"
+      },
+      "description": "《翠玉白菜》是故宮博物院珍藏的玉器雕刻，與「毛公鼎」、「肉形石」並列合稱「故宮三寶」。事實上，故宮博物院珍藏了三顆翠玉白菜，但以此圖片中的最為人所知。",
+      "imageUrl": "images/jadeite_cabbage.jpg"
+    },
+    {
+      "id": "c002",
+      "name": "肉形石",
+      "period": "17世紀",
+      "material": "瑪瑙製成",
+      "dimensions": {
+        "height": 6.6,
+        "length": 7.9,
+        "unit": "公分"
+      },
+      "description": "《肉形石》是故宮博物院珍藏的國寶之一，原是清朝的宮廷珍玩，工匠將一塊自然生成的瑪瑙表面染色，製作成層次分明、毛孔肌理逼真裝的藝品，遠遠望去外觀就像一塊東坡肉，因而稱為肉形石。",
+      "imageUrl": "images/meat_shaped_stone.jpg"
+    },
+    {
+      "id": "c003",
+      "name": "毛公鼎",
+      "period": "西元前771年",
+      "material": "青銅製成",
+      "dimensions": {
+        "depth": 27.2,
+        "diameter": 47.0,
+        "weight": 34.7,
+        "weightUnit": "公斤",
+        "lengthUnit": "公分"
+      },
+      "description": "《毛公鼎》 是西周宣王年間鑄造的青銅鼎，腹內鑄銘32行500字，不僅是舉世最長的銘文，其書法也是金文中最高等級。傳於清道光年間在陜西出土，經多次轉手秘藏，後隨故宮文物渡海來台。",
+      "imageUrl": "images/maogong_ding.jpg"
+    },
+    {
+      "id": "c004",
+      "name": "汝窯青瓷洗",
+      "period": "12世紀",
+      "material": "陶瓷燒製",
+      "dimensions": {
+        "height": 3.5,
+        "depth": 2.5,
+        "diameter": 12.9,
+        "footDiameter": 9.0,
+        "unit": "公分"
+      },
+      "description": "《汝窯青瓷洗》產自北宋知名的窯口－汝窯，汝窯位於河南清涼寺，由於其所燒製的瓷器釉色特殊，藍中透著綠，微微閃現淡粉的光澤，器形端整大方，深受皇家與鑑賞家的喜愛。",
+      "imageUrl": "images/ru_ware_washer.jpg"
+    }
+  ]
+}
